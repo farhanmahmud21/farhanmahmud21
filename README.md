@@ -10,7 +10,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 - **Other:** UI/UX Design.
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanmahmud21&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - **Email:** mahmudkhanfarhan2001@gmail.com
