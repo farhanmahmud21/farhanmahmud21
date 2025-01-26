@@ -16,7 +16,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanmahmud21)
 
 ### Commit Graph
-![GitHub Commit Graph](https://activity-graph.herokuapp.com/graph?username=farhanmahmud21&theme=react-dark)
+![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=farhanmahmud21&theme=react-dark)
 ## 📫 How to reach me
 - **Email:** mahmudkhanfarhan2001@gmail.com
 
