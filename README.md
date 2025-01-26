@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm a passionate Flutter developer with a knack for creating beautiful and functional mobile applications. I love exploring new technologies and continuously improving my skills.
-
+![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 ![Coding Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.)
 
 ## 🛠 Skills
