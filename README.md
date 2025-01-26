@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Farhan Mahmud 👋
 
-<!--
-**farhanmahmud21/farhanmahmud21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Flutter developer with a knack for creating beautiful and functional mobile applications. I love exploring new technologies and continuously improving my skills.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Dart, C , Java, Python
+- **Frameworks:** Flutter
+- **Tools:** Git, Firebase, REST APIs, 
+- **Other:** UI/UX Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- **Email:** mahmudkhanfarhan2001@gmail.com
+
+
+## 🌱 Currently Learning
+- Advanced Flutter techniques
+- Backend development with Node.js
+- Cloud services with AWS
+
+## 💬 Ask me about
+- Flutter development
+- Mobile app design
+- State management in Flutter
