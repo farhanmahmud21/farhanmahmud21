@@ -6,10 +6,10 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 ![Coding Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.)
 
 ## 🛠 Skills
-- **Languages:** Dart, C , Java, Python
+- **Languages:** Dart, C, Java, Python
 - **Frameworks:** Flutter
-- **Tools:** Git, Firebase, REST APIs, 
-- **Other:** UI/UX Design.
+- **Tools:** Git, Firebase, REST APIs
+- **Other:** UI/UX Design
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanmahmud21&show_icons=true&theme=radical)
@@ -19,19 +19,12 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 
 ### Commit Graph
 ![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=farhanmahmud21&theme=react-dark)
-## 📫 How to reach me
-- **Email:** mahmudkhanfarhan2001@gmail.com
-
-### Commit Graph
-![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=farhanmahmud21&theme=react-dark)
-
-### GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanmahmud21&show_icons=true&theme=radical)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmahmud21&layout=compact&theme=radical)
 
-
+## 📫 How to reach me
+- **Email:** mahmudkhanfarhan2001@gmail.com
 
 ## 🌱 Currently Learning
 - Advanced Flutter techniques
@@ -42,3 +35,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 - Flutter development
 - Mobile app design
 - State management in Flutter
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=farhanmahmud21&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
