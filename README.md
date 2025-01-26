@@ -3,6 +3,8 @@
 ## 🚀 About Me
 I'm a passionate Flutter developer with a knack for creating beautiful and functional mobile applications. I love exploring new technologies and continuously improving my skills.
 
+![Coding Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.)
+
 ## 🛠 Skills
 - **Languages:** Dart, C , Java, Python
 - **Frameworks:** Flutter
@@ -19,6 +21,16 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 ![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=farhanmahmud21&theme=react-dark)
 ## 📫 How to reach me
 - **Email:** mahmudkhanfarhan2001@gmail.com
+
+### Commit Graph
+![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=farhanmahmud21&theme=react-dark)
+
+### GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanmahmud21&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmahmud21&layout=compact&theme=radical)
+
 
 
 ## 🌱 Currently Learning
