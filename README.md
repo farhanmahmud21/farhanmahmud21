@@ -23,10 +23,13 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
 
 ## 📈 GitHub Stats
-<img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=farhanmahmud21&show_icons=true&theme=radical">
 
-### Current Streak and Longest Streak
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanmahmud21">
+
+![](https://github-readme-stats.vercel.app/api?username=farhanmahmud21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=farhanmahmud21&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmahmud21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Commit Graph
 <img alt="GitHub Commit Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=farhanmahmud21&theme=react-dark">
