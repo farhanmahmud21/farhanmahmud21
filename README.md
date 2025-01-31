@@ -25,14 +25,21 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 ## 📈 GitHub Stats
 
 
-![](https://github-readme-stats.vercel.app/api?username=farhanmahmud21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanmahmud21&show_icons=true&locale=en" alt="mdabdulazizzisan" /></p> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=farhanmahmud21&theme=dark&hide_border=false)<br/>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=farhanmahmud21&theme=highcontrast)](https://git.io/streak-stats) -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmahmud21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+<p align="center">
+<img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=farhanmahmud21&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak Stats" />
 
-### Commit Graph
-<img alt="GitHub Commit Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=farhanmahmud21&theme=react-dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmahmud21&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
+
+<img src="" width="90%">
+
+</p>https://github-readme-activity-graph.vercel.app/graph?username=farhanmahmud21&theme=react-dark&hide_border=true&area=true
+
+</div>
 
 ### Top Languages
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmahmud21&layout=compact&theme=radical">
