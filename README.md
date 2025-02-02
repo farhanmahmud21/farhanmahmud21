@@ -37,7 +37,9 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 
 <img src="" width="90%">
 
-</p>https://github-readme-activity-graph.vercel.app/graph?username=farhanmahmud21&theme=react-dark&hide_border=true&area=true
+https://github-readme-activity-graph.vercel.app/graph?username=farhanmahmud21&theme=react-dark&hide_border=true&area=true 
+</p>
+
 
 </div>
 
