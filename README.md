@@ -30,13 +30,14 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=farhanmahmud21&theme=highcontrast)](https://git.io/streak-stats) -->
 
 <div align="center">
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=farhanmahmud21&mode=daily&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&include_all_commits=true&count_private=true&fire=DD2727" width="49%" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=farhanmahmud21&theme=algolia&hide_border=true" alt="GitHub Streak" width="45%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmahmud21&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" />
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmahmud21&theme=algolia&hide_border=true&layout=compact" alt="Top Languages" width="40%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanmahmud21&theme=react-dark&hide_border=true&area=true&include_all_commits=true" width="90%" />
-</p>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanmahmud21&theme=react-dark&hide_border=true" alt="Activity Graph" width="90%" />
 </div>
 
 ### Top Languages
