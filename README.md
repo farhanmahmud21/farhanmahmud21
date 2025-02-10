@@ -5,7 +5,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 
 <img alt="Coding Animation" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-<img alt="Coding Quote" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.">
+<img alt="Coding Quote" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=4000&color=F70000&width=600&lines=Code+is+like+humor.%20When+you+explain+it,+it's+bad.">
 
 ## 🛠 Skills
 - **Languages:** Dart, C, Java, Python
@@ -27,7 +27,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 
 <div align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanmahmud21&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
+ <img src="https://streak-stats.demolab.com?user=farhanmahmud21&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
 
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmahmud21&theme=algolia&hide_border=true&layout=compact" alt="Top Languages" />
