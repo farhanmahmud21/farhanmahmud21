@@ -21,8 +21,6 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
-You can add a Postman badge to your README by using the following Markdown code:
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 Just place it under your 🏅 Badges section along with the other badges. Let me know if you need further customization!
