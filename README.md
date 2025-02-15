@@ -23,7 +23,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Just place it under your 🏅 Badges section along with the other badges. Let me know if you need further customization!
+
 
 
 ## 📈 GitHub Stats
