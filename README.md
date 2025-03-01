@@ -55,7 +55,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 - Flutter development
 - Mobile app design
 - State management in Flutter
-
+-Firebase
 
 ## 🏆 GitHub Trophies
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=farhanmahmud21&theme=radical&no-frame=true&margin-w=15&margin-h=15">
