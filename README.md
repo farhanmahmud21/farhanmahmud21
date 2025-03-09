@@ -8,6 +8,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 <img alt="Coding Quote" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=4000&color=F70000&width=600&lines=Code+is+like+humor.%20When+you+explain+it,+it's+bad.">
 
 ## 🛠 Skills
+
 - **Languages:** Dart, C, Java, Python
 - **Frameworks:** Flutter
 - **Tools:** Git, Firebase, REST APIs,Postman
@@ -22,8 +23,6 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
 
 
 ## 📈 GitHub Stats
@@ -58,6 +57,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 -Firebase
 
 ## 🏆 GitHub Trophies
+
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=farhanmahmud21&theme=radical&no-frame=true&margin-w=15&margin-h=15">
 
 
