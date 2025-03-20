@@ -55,6 +55,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 - Mobile app design
 - State management in Flutter
 -Firebase
+-Artificial  Intelligence 
 
 ## 🏆 GitHub Trophies
 
