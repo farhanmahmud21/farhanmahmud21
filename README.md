@@ -29,6 +29,7 @@ I'm a passionate Flutter developer with a knack for creating beautiful and funct
 
 
 <div align="center">
+
   <!-- GitHub Streak Stats -->
  <img src="https://streak-stats.demolab.com?user=farhanmahmud21&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
 
